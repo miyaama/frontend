@@ -1,0 +1,13 @@
+.sticky {
+  position: sticky;
+  background: white;
+  z-index: 999 !important;
+}
+
+.sticky-left {
+  left: 0;
+}
+
+.sticky-right {
+  right: 0;
+}
