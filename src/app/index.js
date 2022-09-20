@@ -56,7 +56,7 @@ export const App = () => {
     <>
       <Searchinput onSearch={search} onClear={clearSearch} />
       <Paper sx={{ width: "100%", overflow: "hidden" }}>
-        <TableContainer sx={{ maxHeight: 665 }}>
+        <TableContainer sx={{ maxHeight: 650 }}>
           <Table>
             <TableHead
               order={order}
